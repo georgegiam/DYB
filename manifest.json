@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,  
     "name": "George Giamouridis",
-    "description": "Quick launch Traversy Media",
+    "description": "Bet with 66.6% sucess",
     "version": "1.0.0",
     "icons": { "128": "icon.jpeg" },
     "content_scripts": [
