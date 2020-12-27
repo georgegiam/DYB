@@ -35,4 +35,4 @@ The project is open source. Fell free to share your ideas and improve the tool.
 
 # Disclaimer
 
-**Τhe developers do not bear any responsibility in case of loss of property**
+**Τhe developers do not bear any responsibility in case of loss of property. Play responsibly**
