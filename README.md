@@ -1,3 +1,6 @@
+```sh
+DYB is still under construction
+``` 
 # DYB (Do You Bet)
 DYB (Do You Bet) is a chromium extension which calculates the amount of money you should invest in order to win a bet. DYB performs with 66.6% success.
 
